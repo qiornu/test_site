@@ -3,6 +3,7 @@
 				<a class="header-logo" href="/">
 					<div class="header-logo__img"><img src="img/logo.svg" alt="[[++site_name]]"></div>
 					<div class="header-logo__sitename">
+					<div>
 						СтройКам
 					</div>
 				</a>

@@ -2,10 +2,11 @@
 			<div class="wrapper">
 				<a class="header-logo" href="/">
 					<div class="header-logo__img"><img src="img/logo.svg" alt="[[++site_name]]"></div>
+					<p/>
 					<div class="header-logo__sitename">
-					<div>
 						СтройКам
 					</div>
+					</p>
 				</a>
 				<div class="header-box-contacts">
 					<div class="header-box-contacts__mail"><a href="mailto:[[#7.email]]">[[#7.email]]</a></div>
